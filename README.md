@@ -1,5 +1,9 @@
 # Prevenção de Churn em uma Empresa de Telecomunicações
 
+<p align="center">
+  <img width="600" height="300" src="imagem01.png">
+</p>
+
 ## Descrição do Projeto:
 
 A empresa de telecomunicações enfrenta desafios significativos relacionados à retenção de clientes, uma vez que a taxa de churn tem impactos diretos nos resultados financeiros e na reputação da empresa. O objetivo deste projeto de ciência de dados é desenvolver um modelo preditivo que avalie a probabilidade de um cliente se tornar churn. Isso permitirá à empresa implementar estratégias proativas de retenção, personalizadas para cada cliente, visando reduzir a perda de clientes e maximizar a satisfação e lealdade.
