@@ -76,8 +76,8 @@ As bibliotecas necessárias para este projeto estão no arquivo “requiriments.
 ## Estrutura do Projeto:
 
 ### Objetivo do Projeto:
-- Aquisição dos Dados
-- Preparação dos Dados
+### Aquisição dos Dados
+### Preparação dos Dados
   - Tratamento de Nulos
   - Substituição dos valores nulos pela moda para variáveis categóricas.
   - Eliminação de variáveis com mais de 70% de nulos.
@@ -88,13 +88,13 @@ As bibliotecas necessárias para este projeto estão no arquivo “requiriments.
   - Validação Cruzada Holdout 70/30
   - Metadados
   - Salvando Tabelas Pós-Preparação dos Dados
-- Feature Selection
+### Feature Selection
   - Lendo dados pós processo de data prep
   - Treinar modelo com algoritmo Random Forest
   - Obter importância das variáveis
   - Correlação de Pearson
   - Salvando abt para treinamento dos modelos
-- Modelagem
+### Modelagem
   - Importar bibliotecas e definir funções
   - Separando uma amostra de 70% para treinar o modelo e 30% para testar o modelo
   - Treinamento modelos
@@ -104,7 +104,7 @@ As bibliotecas necessárias para este projeto estão no arquivo “requiriments.
     - LightGBM
   - Modelo Campeão Escolhido
   - Salvando artefatos dos modelos
-- Código de Escoragem
+### Código de Escoragem
   - Bibliotecas necessárias para o projeto
   - Leitura dos dados a serem escorados
   - Separar 70% dos dados para treino e 30% para validação
@@ -118,7 +118,7 @@ As bibliotecas necessárias para este projeto estão no arquivo “requiriments.
   - Carregando modelo campeão
   - Escorando base de treino e teste
   - Salvando como arquivo csv
-- Conclusão
+### Conclusão
 
 ## Resultados:
 
