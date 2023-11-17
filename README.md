@@ -118,7 +118,6 @@ As bibliotecas necessárias para este projeto estão no arquivo “requiriments.
   - Carregando modelo campeão
   - Escorando base de treino e teste
   - Salvando como arquivo csv
-### Conclusão
 
 ## Resultados:
 
