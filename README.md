@@ -108,7 +108,7 @@ Ao visualizar a matriz de confusão, o LightGBM foi o modelo que apresentou melh
 Além disso, a consistência nas métricas de KS, Gini e AUC para as bases de treinamento e teste sugere que o modelo não tenha overfitting, garantindo robustez e generalização para novos dados. Essa escolha é respaldada por sua eficácia e confiabilidade na predição de casos de diabetes.
 
 <p align="center">
-  <img width="600" height="300" src="Imagens/avaliacao lightgbm.png">
+  <img src="Imagens/avaliacao lightgbm.png">
 </p>
 
 ### Conclusão:
